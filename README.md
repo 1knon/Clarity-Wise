@@ -5,4 +5,4 @@
   - There are aids for depression, insomnia, and ADD/ADHD.
 - Since we are not liscenced proffesionals this tool will simply redirect you to a qualified specialist.
 
-*Submission for TechTogether-Chicago
+*Submission for TechTogether-Chicago*
