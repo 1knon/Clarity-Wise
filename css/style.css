@@ -1,0 +1,10 @@
+body {
+    margin: auto;
+    background-color: blueviolet;
+}
+
+body header {
+    height: 55px;
+    background: black;
+    color: white;
+}
